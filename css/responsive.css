@@ -1,0 +1,12 @@
+@media (max-width: 940px){
+    main{
+        padding: 10px;
+        grid-template-columns: 1fr;
+        grid-template-areas:
+            "daniel"
+            "jonathan"
+            "jeanette"
+            "patrick"
+            "kira";
+    }
+}
