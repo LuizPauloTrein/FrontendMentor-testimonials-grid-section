@@ -4,7 +4,7 @@ Projeto desenvolvido como parte de um desafio do Frontend Mentor.
 
 ## 📌 Sobre o projeto
 
-Este projeto consiste em uma seção de depoimentos organizada em formato de grid responsivo, desenvolvida utilizando HTML5 e CSS3.
+Este projeto consiste em uma seção de depoimentos organizada em formato de grid responsivo, desenvolvida utilizando **HTML5** e **CSS3**.
 
 O foco principal foi praticar CSS Grid, organização de layout complexo com grid-template-areas, controle de espaçamento, hierarquia visual e responsividade.
 
@@ -23,7 +23,7 @@ O foco principal foi praticar CSS Grid, organização de layout complexo com gri
 
 ## 🎯 O que eu pratiquei
 
-- Estruturação semântica com <main>, <section> e <article>
+- Estruturação semântica com `<main>`, `<section>` e `<article>`
 - Construção de layout complexo utilizando grid-template-areas
 - Combinação estratégica de Flexbox + Grid
 - Centralização de layout utilizando display: flex no body
