@@ -42,7 +42,7 @@ O foco principal foi praticar CSS Grid, organização de layout complexo com gri
 
 ## 🌎 Deploy
 
-https://SEU-LINK-AQUI.github.io/testimonials-grid-section/
+https://luizpaulotrein.github.io/FrontendMentor-testimonials-grid-section/
 
 ---
 
